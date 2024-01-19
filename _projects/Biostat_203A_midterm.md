@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Biostat 203A midterm (UCLA)
 description: A project with a background image
 cv_pdf: Xiong_Hanbei_CV.pdf
@@ -14,4 +14,4 @@ This is the content of your project. You can include text, images, and other ele
 To embed the PDF, you can use the following Markdown syntax:
 
 ```markdown
-[Download CV PDF](iong_Hanbei_CV.pdf)
+[Download CV PDF](Xiong_Hanbei_CV.pdf)
