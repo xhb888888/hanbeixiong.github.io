@@ -11,7 +11,6 @@ category: school
 
 This is the content of your project. You can include text, images, and other elements here.
 
-To embed the PDF, you can use the following Markdown syntax:
 
 
-[Download CV PDF](Xiong_Hanbei_CV.pdf)
+[Download CV PDF](_assets/pdf/Xiong_Hanbei_CV.pdf)
