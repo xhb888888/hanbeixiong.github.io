@@ -13,4 +13,4 @@ This is the content of your project. You can include text, images, and other ele
 
 
 
-[Download CV PDF](_assets/pdf/Xiong_Hanbei_CV.pdf)
+[Download CV PDF](assets/pdf/Xiong_Hanbei_CV.pdf)
