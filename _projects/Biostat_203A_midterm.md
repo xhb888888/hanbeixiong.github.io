@@ -13,5 +13,5 @@ This is the content of your project. You can include text, images, and other ele
 
 To embed the PDF, you can use the following Markdown syntax:
 
-```markdown
+
 [Download CV PDF](Xiong_Hanbei_CV.pdf)
