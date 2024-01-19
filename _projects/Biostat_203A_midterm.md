@@ -5,8 +5,6 @@ description: A project with a background image
 cv_pdf: Xiong_Hanbei_CV.pdf
 importance: 3
 category: school
-toc:
-  sidebar: left
 ---
 
 # Project Content
