@@ -3,6 +3,7 @@ layout: page
 title: UCLA Biostatistics-203A Midterm Report
 description: Influences of Sugar and Vitamin D on Oral Health in US Population with Increased Proportion of Underrepresented Minority Groups for
 Ages 18-64
+img:
 importance: 2
 category: school
 ---
