@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UCLA Biostatistics-203A Final Report
-description: Genetic Insights into ASD | Lasso Selected Genes Versus Ribosomal Markers
+title: ASD Genetic Marker Selection
+description: UCLA Biostatistics-203A Final Report
 img:
 importance: 1
-category: school
+category: ucla
 ---
 
 # Project Content

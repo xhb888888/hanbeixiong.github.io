@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UCLA Biostatistics-203A Midterm Report
-description: Influences of Sugar and Vitamin D on Oral Health 
+title: Influences of Sugar and Vitamin D on Oral Health
+description: UCLA Biostatistics-203A Midterm Report 
 img:
 importance: 2
-category: school
+category: ucla
 ---
 
 # Project Content
