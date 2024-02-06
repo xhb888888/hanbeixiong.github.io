@@ -2,7 +2,7 @@
 layout: about
 title: Hanbei
 permalink: /
-subtitle: <a href='#'>UCLA</a>. Los Angelas, 8583493277
+subtitle: <a href='#'>UCLA</a>. Los Angelas
 
 profile:
   align: right

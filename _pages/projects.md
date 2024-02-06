@@ -5,8 +5,8 @@ permalink: /projects/
 description: A growing collection of my projects.
 nav: true
 nav_order: 2
-display_categories: [school]
-horizontal: false
+display_categories: [ucla,ucsd]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
